@@ -2,6 +2,7 @@
 
 Welcome to my security research and offensive security portfolio. With a strong background in full-stack web development (PHP, JavaScript, MySQL, PostgreSQL/Supabase) and Linux server administration, I specialize in **Web Application Penetration Testing**, **Vulnerability Assessment**, and **Defensive Telemetry Engineering**.
 
+| [TrueSelf Findings — Stored XSS & Broken Access Control](https://github.com/NaikE100/offensive-security-lab/blob/main/reports/trueself-findings-stored-xss-broken-access-control.md) | Vulnerability Findings (Open) | OWASP Top 10 (2021) |
 ---
 
 ## 🛠️ Technical Skill Set
