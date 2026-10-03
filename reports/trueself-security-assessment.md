@@ -1,5 +1,7 @@
 # Web Application Vulnerability & Risk Assessment Report
 
+> **Related:** See [Open Findings — Stored XSS & Broken Access Control](./trueself-findings-stored-xss-broken-access-control.md) for specific, currently unremediated vulnerabilities identified during this assessment.
+
 **Target System:** `trueselfgiveback.com`  
 **Assessment Type:** Grey-Box Web Application & Hardening Audit  
 **Framework Alignment:** OWASP Top 10 (2021) / NIST SP 800-53 Rev. 5  
